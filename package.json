@@ -1,15 +1,16 @@
 {
   "name": "package",
   "version": "1.0.0",
-  "description": "",
+  "description": "Belajar Node JS",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "RianGans",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "hbs": "^4.0.5"
+    "hbs": "^4.0.5",
+    "ws": "^7.1.2"
   }
 }

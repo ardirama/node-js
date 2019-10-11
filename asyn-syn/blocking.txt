@@ -1,0 +1,1 @@
+"This nesting of function definitions inside function calls makes the code appear more linear and many find it easier to read. However, it can be tricky for new developers"
